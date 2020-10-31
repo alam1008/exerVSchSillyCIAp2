@@ -4,7 +4,7 @@ img {
   margin-right: 15px;
 }
 .header {
-  color: Green;
+  color: darkgreen;
   font-family: Georgia;
   text-align: center;
   width: 725px;
@@ -27,4 +27,8 @@ p {
 ul {
   font-size: 14pt;
   margin-top: 0px;
+}
+p1 {
+  text-transform:uppercase;
+  font-size: 14pt;
 }
